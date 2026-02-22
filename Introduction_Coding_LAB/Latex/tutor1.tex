@@ -1,0 +1,53 @@
+
+% "%" - is a comment (we can read but does not compiles)
+% type of classes
+%\documentclass[a4paper, 12pt]{article}
+
+\documentclass{article}
+\usepackage{amsmath, esint}
+\usepackage{fontspec}
+\setmainfont[Ligatures=TeX]{Linux Libertine O}
+
+\title{Punimi i pare me Latex}
+\author{Ismail Qemali}
+\date{28 N\"entor 1912}
+
+\begin{document}
+
+\maketitle
+
+\c Ceki\c ci \"O \"E 
+
+Energjia kinetike ne \textbf{mekaniken} klasike eshte {\bf funksion kuadratik} i {\it impulsit} $p$ si ne ekuacionin (Eq.\ref{eq:Ekinetike}, Eq.\ref{fig:exponent}), si meposhte
+
+\begin{equation}
+\label{eq:Ekinetike}
+E_k = \frac{p^2}{2m}
+\end{equation}
+
+Ekuacioni i vales eshte:
+\begin{equation}
+\left[ \frac{1}{c^2} \frac{\partial^2}{\partial t^2} - \frac{\partial^2}{\partial x^2} - \frac{\partial^2}{\partial y^2} - \frac{\partial^2}{\partial z^2} \right] \Psi(\vec{r},t) = 0
+\end{equation}
+
+\begin{equation}
+\label{fig:exponent}
+e^x = \sum_{n=0}^\infty \, \frac{x^n}{n!} = \lim_{x\to 0} f(x) = 0\uparrow
+\end{equation}
+
+\begin{equation}
+\int\limits_{-\infty}^{+\infty} dx \int\limits_{-\infty}^{+\infty} dy \int\limits_{-\infty}^{+\infty} dz \; e^{-x^2} = \sqrt{\pi}
+\end{equation}
+
+\newpage
+\section{Introduction}
+\fontspec[Numbers={OldStyle}]{Linux Libertine O}Old style: 1234567\\
+\fontspec[Numbers={Lining}]{Linux Libertine O}Lining: 1234567
+
+\section{Idea}
+\lq\lq I understand\rq\rq,\; ``Quote me'', \LaTeX \; \TeX
+
+
+
+
+\end{document}
