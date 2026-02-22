@@ -1,1 +1,0 @@
-# IBM school preps @FSHN
