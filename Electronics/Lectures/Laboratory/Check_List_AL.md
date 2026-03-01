@@ -4,8 +4,8 @@
 
 ## PARA SE TË NDEZNI QARKUN
 
-☐ Verifikoni vizualisht të gjitha lidhjet 
-☐ Kontrolloni vendosjen e komponentëve (mos vendosni të dyja këmbët në të njëjtën rresht të breadboard-it etj.) 
+☐ Verifikoni vizualisht të gjitha lidhjet \n
+☐ Kontrolloni vendosjen e komponentëve (mos vendosni të dyja këmbët në të njëjtën rresht të breadboard-it etj.) \n
 ☐ Konfirmoni polaritetin e saktë (LED, kondensatorë, "rail-et" e fuqisë) 
 ☐ Sigurohuni që tensioni i furnizimit është vendosur saktë 
 ☐ Vendosni kufirin e rrymës në një vlerë të sigurt dhe të ulët 
@@ -13,7 +13,6 @@
 ☐ Verifikoni përputhjen e sondës së oshiloskopit (1x / 10x)
 
 **Fuqia është HAPI I FUNDIT — jo i pari.**
-
 
 
 
@@ -26,7 +25,6 @@
 ☐ Mos matni kurrë rrymën direkt mbi furnizimin me energji 
 
 **Nëse nuk jeni të sigurt: NDALONI dhe kontrolloni përsëri.**
-
 
 
 
