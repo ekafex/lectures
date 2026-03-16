@@ -8,6 +8,7 @@ ipython_config.py
 # Jupyter runtime files
 .jupyter/
 local/
+.virtual_documents/
 
 # Python cache
 __pycache__/
