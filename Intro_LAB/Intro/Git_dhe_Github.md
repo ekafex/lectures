@@ -147,7 +147,7 @@ Plotësoni:
 **Repository name**
 
 ``` 
-Hyrje_ne_Laborator
+Hyrje_Laborator
 ```
 
 **Description**
@@ -256,6 +256,30 @@ git add .
 git commit -m "mesazh"
 git push
 git pull
+
+
+# ========================================
+# -----------------------------
+# Shtesa per ato qe jane kurioz
+# -----------------------------
+git log  #shiko historikun e ndryshimeve
+git switch --detach <commit-hash> #per te shkuar mbrapa ne kohe ne historikun e commit
+git switch -c new-branch <commit-hash> # per te ndertuar nje branch te ri ne ate commit
+git log --oneline # gjen commit-hash (numrin unik "hash" qe i korespondon commit)
+#------
+# krijo branches
+git switch -c feature-x # create a new branch with branch name "feature-x"
+git checkout -b feature-x # equivalent to git switch -c feature-x
+git branch feature-x # zhvendosu te branch feature-x (git switch main)
+#------
+# merge branches
+git switch main # ndiqe me komanden "git merge feature-x"
+git merge feature-x # merge feature-x ne main
+#-----
+# delete branch
+git branch -d feature-x
+git branch -D feature-x # force delete ne rast se branch nuk eshte merge
+
 ```
 
 
