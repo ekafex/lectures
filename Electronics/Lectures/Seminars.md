@@ -1,0 +1,5 @@
+# Seminars
+
+Some of the problems for the seminars will take them from:
+* [Argwal&Lang book](https://neurophysics.ucsd.edu/courses/physics_120/Agarwal%20and%20Lang%20(2005)%20Foundations%20of%20Analog%20and%20Digital.pdf)
+
