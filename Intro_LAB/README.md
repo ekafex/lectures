@@ -49,7 +49,7 @@ Instalimi dhe konfigurimi i mjedisit të punës (Conda, JupyterLab). Të mësohe
 
 
 
-### Java 6 — Matja e Dendësisë dhe Propagimi i Gabimeve
+### Java 6 — Matja e Dendësisë dhe Perhapja e Gabimeve
 
 **Kategoria:** Fizikë  
 **Objektivi:**  Përcaktimi i dendësisë nga matjet e masës dhe vëllimit. Kuptimi i mënyrës si gabimet përhapen në madhësitë e llogaritura.

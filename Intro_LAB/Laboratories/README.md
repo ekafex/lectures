@@ -1,2 +1,0 @@
-# Laboratoret
-ketu gjeni laboratoret
