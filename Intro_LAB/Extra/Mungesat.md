@@ -2,6 +2,9 @@
 
 **Legjenda:** `bosh = i/e pranishem`, `m = mungesë`.
 
+***Shënim:** Në datën 25.02.26 dhe 11.03.26 nuk janë marrë mungesat në Lab.*
+
+
 
 ## Fizikë & CS viti 1
 
