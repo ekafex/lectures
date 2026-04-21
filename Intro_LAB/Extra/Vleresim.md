@@ -7,13 +7,13 @@
 | Albana Hoxha | PASS | OK | 2026-03-25 09:02 | 2026-04-01 08:49 | 2026-04-01 08:51 | 2026-04-03 18:02 | 2026-04-14 23:40 | 2026-04-21 14:35 | — | — | — | — |
 | Aleksandro Qirici | FAIL | `LAB03`: mungon Raport.ipynb | 2026-03-24 21:53 | 2026-03-24 21:58 | — | — | 2026-04-14 16:52 | — | — | — | — | — |
 | Alesia Danga | FAIL | Nuk Gjendet Repository | — | — | — | — | — | — | — | — | — | — |
-| Artea Zerellari | FAIL | `LAB06`: mungon Raport.ipynb | 2026-03-25 08:55 | 2026-04-08 01:10 | 2026-04-08 02:10 | 2026-04-07 23:25 | 2026-04-11 18:45 | — | — | — | — | — |
+| Artea Zerellari | PASS | OK | 2026-03-25 08:55 | 2026-04-08 01:10 | 2026-04-08 02:10 | 2026-04-07 23:25 | 2026-04-11 18:45 | 2026-04-21 20:32 | — | — | — | — |
 | Arteo Çarta | PASS | OK | — | — | — | — | — | — | — | — | — | — |
 | Bjorn Muça | FAIL | Nuk Gjendet Repository | — | — | — | — | — | — | — | — | — | — |
 | Emanuel Lamçaj | PASS | OK | — | 2026-03-31 21:46 | — | — | — | — | — | — | — | — |
 | Emanuel Zela | PASS | OK | 2026-03-31 18:20 | 2026-03-31 18:20 | 2026-04-14 22:30 | 2026-04-14 22:30 | 2026-04-14 22:30 | — | — | — | — | — |
 | Ergi Biduli | PASS | OK | — | — | — | — | — | — | — | — | — | — |
-| Esma Tanushi | FAIL | `LAB03`: mungon Raport.ipynb | 2026-03-25 08:56 | 2026-04-08 10:24 | — | — | — | — | — | — | — | — |
+| Esma Tanushi | PASS | OK | 2026-03-25 08:56 | 2026-04-08 10:24 | 2026-04-21 20:31 | 2026-04-21 20:32 | 2026-04-22 00:13 | 2026-04-21 20:33 | — | — | — | — |
 | Florian Loka | FAIL | Nuk Gjendet Repository | — | — | — | — | — | — | — | — | — | — |
 | Gledis Halilaj | FAIL | Nuk Gjendet Repository | — | — | — | — | — | — | — | — | — | — |
 | Horgito Mhillaj | PASS | OK | — | — | — | — | — | — | — | — | — | — |

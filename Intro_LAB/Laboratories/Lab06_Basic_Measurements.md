@@ -1,4 +1,4 @@
-# **LAB 05 — Matja e Madhësive Bazë: Gjatësia, Masa dhe Koha**
+# **LAB 06 — Matja e Madhësive Bazë: Gjatësia, Masa dhe Koha**
 
 ## **Qëllimi i Laboratorit**
 
@@ -45,7 +45,7 @@ Pasiguria instrumentale ≈ **gjysma e ndarjes më të vogël**
 
 ## **Pajisjet**
 
--   Vizore, **kaliper vernier**, mikrometër
+-   Vizore, **kalibër vernier**, mikrometër
 -   Peshore (mekanike ose dixhitale)
 -   Kronometër (ose smartphone)
 -   Objekte të thjeshta (cilindër, kub, etj.)
@@ -54,7 +54,7 @@ Pasiguria instrumentale ≈ **gjysma e ndarjes më të vogël**
 
 Simulime për praktikë:
 
--   [Kaliper (simulator)](https://www.stefanelli.eng.br/en/virtual-vernier-caliper-simulator-02-millimeter/)
+-   [Kalibër (simulator)](https://www.stefanelli.eng.br/en/virtual-vernier-caliper-simulator-02-millimeter/)
 -   [Mikrometër (simulator)](https://www.stefanelli.eng.br/en/simulator-virtual-micrometer-hundredths-millimeter/)
 -   [Vizore (simulator)](https://www.stefanelli.eng.br/en/simulator-use-reading-ruler-fractional-inch/)
 -   [Peshore (simulator)](https://gizmos.explorelearning.com/find-gizmos/launch-gizmo?resourceId=385)
@@ -71,7 +71,7 @@ Simulime për praktikë:
 
 1.  Mat një objekt me:
     -   Vizore
-    -   Kaliper
+    -   Kalibër
     -   Mikrometër (nëse është e aplikueshme)
 2.  Kryej **≥5 matje** për çdo instrument
 3.  Regjistro të dhënat në tabelë
@@ -184,5 +184,4 @@ Përfshini:
 -   Llogaritje automatike (NumPy)
 -   Grafiqe (nëse ka kuptim)
 -   Interpretoni dhe komentoni rezultatet (jo vetëm rezultate numerike)
-
 

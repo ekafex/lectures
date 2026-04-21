@@ -1,4 +1,4 @@
-# **LAB 06 — Matje Indirekte: Dendësia dhe Përhapja e Pasigurisë**
+# **LAB 07 — Matje Indirekte: Dendësia dhe Përhapja e Pasigurisë**
 
 ## **Qëllimi i Laboratorit**
 
