@@ -122,7 +122,7 @@ Pyetje udhëzuese:
 -   A ka outliers? (vlera që largohen shumë nga pritshmëritë apo mesatarja)
 -   Çfarë ndodh nëse:
     -   rritet $n$?
-    -   sistemi është i ngarkuar? (kemi shume përdorues apo e ngarkojmë artificialisht sistemin duke futur procesorin, memorien apo edhe I/O). A shihet ndryshim në performancë kur sitemi është i ngarkuar krahasuar me atë kur është i lirë.
+    -   sistemi është i ngarkuar? (kemi shume përdorues apo e ngarkojmë artificialisht sistemin duke ngarkuar procesorin, memorien apo edhe I/O). A shihet ndryshim në performancë kur sitemi është i ngarkuar krahasuar me atë kur është i lirë.
 
 
 
@@ -130,21 +130,21 @@ Pyetje udhëzuese:
 
 Ky laborator është analog me çdo matje fizike:
 
-| Fizikë         | Kompjuter         |
-| -------------- | ----------------- |
-| matje me gabim | kohë me variacion |
-| zhurmë         | OS + hardware     |
-| përsëritje     | eksperimente      |
+| Fizikë         | Kompjuter                  |
+| -------------- | -------------------------- |
+| matje me gabim | kohë me variacion (jitter) |
+| zhurmë         | OS + hardware              |
+| përsëritje     | eksperimente               |
 
-Koha e ekzekutimit është një **madhësi statistikore**
+Koha e ekzekutimit është një **madhësi statistikore**!
 
 
 
 ## **8. Gabime të zakonshme**
 
 -   shumë pak përsëritje
--   përfshirje e `print()` në matje
--   përdorimi i input-eve shumë të vogla
+-   përfshirje në matje e `print()` apo kod që nuk është pjesë e algoritmit
+-   përdorimi i input-eve shumë të vogla (sepse ndikon zhurma e Hardware+OS)
 -   mos përdorimi i `perf_counter()`
 
 
