@@ -10,25 +10,25 @@
 
 |  Nr. | Student           | 25.02.26 | 04.03.26 | 11.03.26 | 18.03.26 | 25.03.26 | 01.04.26 | 08.04.26 | 15.04.26 | 22.04.26 | 29.04.26 | 06.05.26 | 13.05.26 | 20.05.26 | 27.05.26 | 03.06.26 | Tot. |
 | ---: | :---------------- | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :---: |
-|    1 | Alba Boriçi       |          | m        |       | m        | m | m | m | m | m | m | m |       |       |       |       |   9 |
-|    2 | Albana Hoxha      |       |       |       |         |       |       |       |       | m |       |       |       |       |       |       |    1 |
+|    1 | Alba Boriçi       |          | m        |       | m        | m | m | m | m | m | m | m | m |       |       |       |  10 |
+|    2 | Albana Hoxha      |       |       |       |         |       |       |       |       | m |       |       | m |       |       |       |    2 |
 |    3 | Aleksandro Qirici |       |       |       |       |       |       | m |       |       |       |       |       |       |       |       |    1 |
 |    4 | Alesia Danga      |       |       |       |       |       |       |       |       |       |       |       |       |       |       |       |    0 |
-|    5 | Armando Koçaj     |       | m        |       | m        | m | m | m | m | m | m | m |       |       |       |       |    9 |
-|    6 | Arselino Lika     |       | m        |       | m        | m | m | m | m | m | m | m |       |       |       |       |    9 |
+|    5 | Armando Koçaj     |       | m        |       | m        | m | m | m | m | m | m | m | m |       |       |       |   10 |
+|    6 | Arselino Lika     |       | m        |       | m        | m | m | m | m | m | m | m | m |       |       |       |   10 |
 |    7 | Artea Zerellari   |       |       |       |         |       |       |       |       |       |       |       |       |       |       |       |    0 |
 |    8 | Arteo Çarta       |       |       |       |       |       | m |       |       |       |       | m |       |       |       |       |    2 |
 |    9 | Bjorn Muça        |       | m        |       |         | m | m |       |       |       | m* |       |       |       |       |       |    4 |
-|   10 | Emanuel Lamçaj    |       | m        |       | m        | m | m | m | m | m | m | m |       |       |       |       |    9 |
+|   10 | Emanuel Lamçaj    |       | m        |       | m        | m | m | m | m | m | m | m | m |       |       |       |   10 |
 |   11 | Emanuel Zela      |       |       |       |       |       |       |       | m |       | m |       |       |       |       |       |    2 |
-|   12 | Ergi Biduli       |       | m        |       | m        |       | m |       | m |       | m |       |       |       |       |       |    5 |
+|   12 | Ergi Biduli       |       | m        |       | m        |       | m |       | m |       | m |       | m |       |       |       |    6 |
 |   13 | Esma Tanushi      |       | m        |       |         |       |       |       |       |       |       |       |       |       |       |       |    1 |
-|   14 | Flavio Mimini     |       | m        |       | m        | m | m | m | m | m | m | m |       |       |       |       |    9 |
+|   14 | Flavio Mimini     |       | m        |       | m        | m | m | m | m | m | m | m | m |       |       |       |   10 |
 |   15 | Florian Loka      |       | m        |       |       |       |       | m |       |       | m* |       |       |       |       |       |    3 |
-|   16 | Gledis Halilaj    |       | m        |       |       |       | m |  |       |       | m* |       |       |       |       |       |    3 |
+|   16 | Gledis Halilaj    |       | m        |       |       |       | m |  |       |       | m* |       | m |       |       |       |    4 |
 |   17 | Horgito Mhillaj   |       | m        |       |       |       |       | m |       |       | * | * |       |       |       |       |    2 |
 |   18 | Orinda Koçi       |       |       |       |       |       |       |       |       |       |       |       |       |       |       |       |    0 |
-|   19 | Pavlina Agora     |       | m        |       | m        | m |       |       |       |       | m |       |       |       |       |       |    4 |
+|   19 | Pavlina Agora     |       | m        |       | m        | m |       |       |       |       | m |       | m |       |       |       |    5 |
 |   20 | Rei Bruka         |       |       |       |       |       |       |       | m |       | m* |       |       |       |       |       |    2 |
 |   21 | Sergi Cani        |       |       |       |       |       |       |       |       |       | m* | m |       |       |       |       |   2 |
 | 22 | Zelie Kurti | | | | | | | | | | | | | | | | 0 |
